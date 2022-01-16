@@ -1,0 +1,29 @@
+body{
+    background: #a6e4e8; 
+    color: #001F3F;
+}
+.container-sm {
+    width: 500px !important;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 85px ;
+    background: #a6e4e8;
+    box-shadow:  23px 23px 40px #86c4cb,
+             -23px -23px 40px #b2ffff;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+h1{
+   color:#214760;
+   padding-top: 20px;
+}
+.form-control{
+    border-radius: 0.50rem !important;
+}
+.btn-success{
+    background-color:#001F3F !important;
+}
+.btn-success:hover{
+    background-color: #214760 !important;
+}
