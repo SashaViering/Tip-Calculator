@@ -27,6 +27,6 @@ h1{
 .btn-success:hover{
     background-color: #214760 !important;
 }
-.footer{
-    color: #d265f1;
+.bi-heart{
+    color: #d265f1 !important;
 }
