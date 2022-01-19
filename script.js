@@ -1,7 +1,7 @@
 let calc = function() {
     let bill = Number(document.getElementById('bill').value);
     let split = Number(document.getElementById('split').value);
-    let tip = bill * .15;
+    let tip = bill * .10;
     let totalBill = bill + tip;
     let splitPerPerson = totalBill / split ;
 
