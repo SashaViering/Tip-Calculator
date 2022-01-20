@@ -30,3 +30,8 @@ h1{
 .bi-heart{
     color: #d265f1 !important;
 }
+img[alt="logohtml"] { 
+    max-width:  20px; 
+    height: 20px;
+    display: block;
+  }
